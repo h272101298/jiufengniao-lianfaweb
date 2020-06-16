@@ -57,7 +57,7 @@ axios.interceptors.response.use(
 
 
 // let hosturl = 'http://192.168.1.172/Shop/public/'
-let hosturl ='https://niao.fengniaotuangou.cn/'
+let hosturl ='https://fa.fengniaotuangou.cn/'
 // let hosturl ='https://nx.pywoman.com/'
 
 let base = hosturl+'v1'

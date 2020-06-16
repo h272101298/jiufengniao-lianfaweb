@@ -5,7 +5,7 @@
     <el-col :span="24" class="topbar-wrap">
 
       <div class="topbar-title">
-        <span style="font-size: 18px;color: #fff;">商城后台</span>
+        <span style="font-size: 18px;color: #fff;">联发食品商城后台</span>
       </div>
       <el-button class="clear" size="mini" type='primary' @click="quanping()">{{fstext}}</el-button>
       <div class="topbar-account topbar-btn">
